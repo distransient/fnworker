@@ -1,0 +1,20 @@
+{
+  "name": "fnworker",
+  "version": "0.1.0",
+  "description": "Pass a Function and a context to a worker instead of a url",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkgh/fnworker"
+  },
+  "keywords": [
+    "Worker",
+    "Web Workers"
+  ],
+  "author": "Kel <humanoidanalog@gmail.com> (http://distransient.ddns.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkgh/fnworker/issues"
+  },
+  "homepage": "https://github.com/mkgh/fnworker"
+}
